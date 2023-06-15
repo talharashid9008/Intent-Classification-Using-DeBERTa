@@ -1,1 +1,2 @@
 # Intent-Classification-Using-DeBERTa
+Downloaded a dataset from Kaggle, preprocesses and tokenized the dataset, and created a TensorFlow dataset for training using Deberta Tokenizer. Then trained a Deberta-based sequence classification model using the dataset, evaluated its performance, and visualized the results with loss and accuracy curves. The code also performs inference on example queries and displays the predicted intent labels.
